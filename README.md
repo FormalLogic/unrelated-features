@@ -1,2 +1,2 @@
 # README
-This repo contains a notebook which contains a mini-project. Click on the [notebook](https://github.com/FormalLogic/unrelated-features/blob/master/Mislabeing%20in%20training%20data.ipynb) to view the project. All information regarding introduction/discussion etc ... is within the notebook. 
+This repo contains a notebook which contains a mini-project. Click on the [notebook](https://github.com/FormalLogic/unrelated-features/blob/master/Unrelated%20Features.ipynb) to view the project. All information regarding introduction/discussion etc ... is within the notebook. 
